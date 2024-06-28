@@ -1,2 +1,2 @@
 console.log("ninhaoma")
-console.log("nihaoya")
+console.log("nihaoya洒点水")
