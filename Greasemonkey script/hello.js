@@ -1,1 +1,2 @@
-console.log("ninhao")
+console.log("ninhaoma")
+console.log("nihaoya")
