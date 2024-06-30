@@ -2,7 +2,7 @@
 // @name         山东省教师教育网2024中小学远程研修
 // @namespace    http://tampermonkey.net/
 // @version      2.1.2
-// @author       桥风改写
+// @author       桥风
 // @description  山东省教师教育网2024中小学远程研修。
 // @match        *://www.qlteacher.com/
 // @match        *://yxjc.qlteacher.com/project/yey2024/*
@@ -12,7 +12,7 @@
 // @match        *://yxjc.qlteacher.com/project/cz2024/lesson/learn
 // @match        *://player.qlteacher.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=qlteacher.com
-// @license      桥风改写
+// @license      桥风
 // @grant        none
 // ==/UserScript==
 
