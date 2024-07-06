@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         山东省教师教育网2024中小学远程研修
 // @namespace    http://tampermonkey.net/
-// @version      2.1.2
+// @version      2.1.3
 // @author       桥风rewrite（这只是改写，若侵权，立即下架）
-// @description  山东省教师教育网2024中小学远程研修。
+// @description  山东省教师教育网2024中小学远程研修，有问题可以联系我 微信：founderqiang
 // @match        *://www.qlteacher.com/
 // @match        *://yxjc.qlteacher.com/project/yey2024/*
 // @match        *://yxjc.qlteacher.com/project/xx2024/*
